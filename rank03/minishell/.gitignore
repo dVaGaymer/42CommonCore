@@ -1,0 +1,9 @@
+*.o
+minishell
+.vscode
+*.a
+*.out
+*.out.*
+*.txt
+*.json
+.cache/
